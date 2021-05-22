@@ -9,7 +9,7 @@ def lineNotifyMessage(token, msg):
     return r.status_code
     
 # 修改為你要傳送的訊息內容
-message = ' \n\n••••••••••••••••••••••••••••••••••••••\n 123456'
+message = '\n\n••••••••••••••••••••••••••••••••••••••\n 123456'
 # 修改為你的權杖內容
 token = ''
 
