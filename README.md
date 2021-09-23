@@ -1,0 +1,1 @@
+![TsaiRongFu/PythonAutoWeb Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTsaiRongFu%2FPythonAutoWeb&count_bg=%23F51DD0&title_bg=%234B4B4B&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
